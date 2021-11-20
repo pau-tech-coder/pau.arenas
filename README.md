@@ -1,4 +1,4 @@
-# iuri.is()
+# pau.arenas
 
 This is my portfolio.<br>
 It was built using Vue CLI, GSAP, NProgress and ScrollMagic.
